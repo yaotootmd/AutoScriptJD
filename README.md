@@ -1,6 +1,6 @@
 ### 修改自Faker维护仓库。
 
-ql repo https://ghproxy.com/https://github.com/ringwraith/AutoScriptJD.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|ZooFaker_Necklace.js|JDJRValidator_Pure|sign_graphics_validate|ql"
+ql repo https://ghproxy.com/https://github.com/ringwraith/AutoScriptJD.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp|temp" "^jd[^_]|USER|function|utils|ZooFaker_Necklace.js|JDJRValidator_Pure|sign_graphics_validate|ql"
 
 
 ### 感谢各位:
